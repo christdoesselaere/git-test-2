@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    color: azure;
+    font-family: Calibri, sans-serif;
+    font-size: 28px;
+}
+
+p {
+    color: azure;
+    font-family: Candara, sans-serif;
+}
